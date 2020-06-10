@@ -1146,231 +1146,6 @@
         "signature": "3293b0d1d6a7f902316e164fcf36ae099f1bbb0224484586eaab30d9dea78d32",
         "affectsGlobalScope": false
       },
-      "../src/app.module.ts": {
-        "version": "30c9042e9cea4e04c1d26675379dced11cc60bd744e650a5652737adca396e5e",
-        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/adapters/http-adapter.d.ts": {
-        "version": "71cc7da1ef9d96f44a214a43017535538b47988d4bc9dedbf7592d2f9fe10da9",
-        "signature": "71cc7da1ef9d96f44a214a43017535538b47988d4bc9dedbf7592d2f9fe10da9",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/adapters/index.d.ts": {
-        "version": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
-        "signature": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module-token-factory.d.ts": {
-        "version": "27484cb3aa328bc5d0957fcb34df68a5db1be280af510d9ed3a282b1a0a93b38",
-        "signature": "27484cb3aa328bc5d0957fcb34df68a5db1be280af510d9ed3a282b1a0a93b38",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/modules-container.d.ts": {
-        "version": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
-        "signature": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/container.d.ts": {
-        "version": "c2d1faec57a59a8ba57dd00354c6e6ca96eb5345209cbd248565817302bfa422",
-        "signature": "c2d1faec57a59a8ba57dd00354c6e6ca96eb5345209cbd248565817302bfa422",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module.d.ts": {
-        "version": "3567bf24724bd85350a97909a4323b806c77707c3954501836a5aae7201480b3",
-        "signature": "3567bf24724bd85350a97909a4323b806c77707c3954501836a5aae7201480b3",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/instance-wrapper.d.ts": {
-        "version": "841487542d9a8f579ba6f644f754c5b90ed872a345d2a3fa4b08077db03e7027",
-        "signature": "841487542d9a8f579ba6f644f754c5b90ed872a345d2a3fa4b08077db03e7027",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/application-config.d.ts": {
-        "version": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
-        "signature": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/constants.d.ts": {
-        "version": "f23601713615719b1a1394deae884fb9f507de819a086d5a019c63793da9efc6",
-        "signature": "f23601713615719b1a1394deae884fb9f507de819a086d5a019c63793da9efc6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/discovery-module.d.ts": {
-        "version": "50fd11b764194f06977c162c37e5a70bcf0d3579bf82dd4de4eee3ac68d0f82f",
-        "signature": "50fd11b764194f06977c162c37e5a70bcf0d3579bf82dd4de4eee3ac68d0f82f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/discovery-service.d.ts": {
-        "version": "ad5ad568f2f537a43dcc1588b2379f9dc79539ae36b8821b13a5d03625211eb2",
-        "signature": "ad5ad568f2f537a43dcc1588b2379f9dc79539ae36b8821b13a5d03625211eb2",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/index.d.ts": {
-        "version": "99579aa074ed298e7a3d6a47e68f0cd099e92411212d5081ce88344a5b1b528d",
-        "signature": "99579aa074ed298e7a3d6a47e68f0cd099e92411212d5081ce88344a5b1b528d",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/context-id-factory.d.ts": {
-        "version": "a4d05f346ba48f5685f9142fdd90b1e12e463535c38bdea74fce64813f2a8661",
-        "signature": "a4d05f346ba48f5685f9142fdd90b1e12e463535c38bdea74fce64813f2a8661",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/http-adapter-host.d.ts": {
-        "version": "d2d58166965f631fa203f405f3713b0f86f1f8b80755e9daea43057a25311e16",
-        "signature": "d2d58166965f631fa203f405f3713b0f86f1f8b80755e9daea43057a25311e16",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/index.d.ts": {
-        "version": "0256d60785ede7860b5262f504f139aa68f74db44ba9f03807b752864580772c",
-        "signature": "0256d60785ede7860b5262f504f139aa68f74db44ba9f03807b752864580772c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/exceptions/base-exception-filter.d.ts": {
-        "version": "e4fc4090c3687640d033fd75585ccb54dcdf3bf406338228df50b0dcee0314d0",
-        "signature": "e4fc4090c3687640d033fd75585ccb54dcdf3bf406338228df50b0dcee0314d0",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/exceptions/index.d.ts": {
-        "version": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
-        "signature": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module-ref.d.ts": {
-        "version": "aa4ed21b4b33ab003d37dc1ac1a169f1f0e5a2fcd56539449e2994f39af12917",
-        "signature": "aa4ed21b4b33ab003d37dc1ac1a169f1f0e5a2fcd56539449e2994f39af12917",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/inquirer/inquirer-constants.d.ts": {
-        "version": "396c1e5a39706999ec8cc582916e05fcb4f901631d2c192c1292e95089a494d9",
-        "signature": "396c1e5a39706999ec8cc582916e05fcb4f901631d2c192c1292e95089a494d9",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/inquirer/index.d.ts": {
-        "version": "89df75d28f34fc698fe261f9489125b4e5828fbd62d863bbe93373d3ed995056",
-        "signature": "89df75d28f34fc698fe261f9489125b4e5828fbd62d863bbe93373d3ed995056",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/index.d.ts": {
-        "version": "e99e3ad9035927f61b1d6b54c51fca01e46bdcaf861fd9484086d871e76d0aef",
-        "signature": "e99e3ad9035927f61b1d6b54c51fca01e46bdcaf861fd9484086d871e76d0aef",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/metadata-scanner.d.ts": {
-        "version": "7cb9b6d5c1e3508fbc81e7bbab314eac54715f9326ac72fd0eb65f17a4393d50",
-        "signature": "7cb9b6d5c1e3508fbc81e7bbab314eac54715f9326ac72fd0eb65f17a4393d50",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/routes-mapper.d.ts": {
-        "version": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
-        "signature": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/builder.d.ts": {
-        "version": "9daabcf8cac2bd41d4cb83511c0358fc24650fd08f9ae73e888582285a116a3f",
-        "signature": "9daabcf8cac2bd41d4cb83511c0358fc24650fd08f9ae73e888582285a116a3f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/index.d.ts": {
-        "version": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
-        "signature": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/injector.d.ts": {
-        "version": "277c4deaebf4165aaf2ee4ac703cc38ec75c01905e0bbff8fa169fc5978b9379",
-        "signature": "277c4deaebf4165aaf2ee4ac703cc38ec75c01905e0bbff8fa169fc5978b9379",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-application-context.d.ts": {
-        "version": "1be8ef33b2221024735c62496e1d87bc5596cb26e023b8d4ea58030d5e2ee8ce",
-        "signature": "1be8ef33b2221024735c62496e1d87bc5596cb26e023b8d4ea58030d5e2ee8ce",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-application.d.ts": {
-        "version": "398ee5590d2e022f7c00f0c1f049db902cd8c7a2bf9bfacac5bef35cc8977aa7",
-        "signature": "398ee5590d2e022f7c00f0c1f049db902cd8c7a2bf9bfacac5bef35cc8977aa7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": {
-        "version": "e3d221660c0b79a9a3ba1111b3dfbb1136c0b52d7609b0054d3ce09ce711a3e6",
-        "signature": "e3d221660c0b79a9a3ba1111b3dfbb1136c0b52d7609b0054d3ce09ce711a3e6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-factory.d.ts": {
-        "version": "6f168d1a3ca37d9ab1b8559bdeab7e22a384df4a5828c01190614700fe20a8cb",
-        "signature": "6f168d1a3ca37d9ab1b8559bdeab7e22a384df4a5828c01190614700fe20a8cb",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/request/request-constants.d.ts": {
-        "version": "e47adc2176f43c617c0ab47f2d9b2bb1706d9e0669bf349a30c3fe09ddd63261",
-        "signature": "e47adc2176f43c617c0ab47f2d9b2bb1706d9e0669bf349a30c3fe09ddd63261",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/request/index.d.ts": {
-        "version": "7fec79dfd7319fec7456b1b53134edb54c411ba493a0aef350eee75a4f223eeb",
-        "signature": "7fec79dfd7319fec7456b1b53134edb54c411ba493a0aef350eee75a4f223eeb",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/index.d.ts": {
-        "version": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
-        "signature": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/reflector.service.d.ts": {
-        "version": "abdc0a8843b28c3cafbefb90079690b17b7b4e2a9c9bbf2cd8762e11a3958034",
-        "signature": "abdc0a8843b28c3cafbefb90079690b17b7b4e2a9c9bbf2cd8762e11a3958034",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/index.d.ts": {
-        "version": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
-        "signature": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/index.d.ts": {
-        "version": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
-        "signature": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
-        "affectsGlobalScope": false
-      },
-      "../src/main.ts": {
-        "version": "e25d9bd8f80b6ffbcc8826ed1b407e747e4fbe346c5bab62cbe5837da4eeb189",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_anymatch@1.3.1@@types/anymatch/index.d.ts": {
-        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
-        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@babel_types@7.10.2@@babel/types/lib/index.d.ts": {
-        "version": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
-        "signature": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_babel__generator@7.6.1@@types/babel__generator/index.d.ts": {
-        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
-        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_babel__traverse@7.0.12@@types/babel__traverse/index.d.ts": {
-        "version": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
-        "signature": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@babel_parser@7.10.2@@babel/parser/typings/babel-parser.d.ts": {
-        "version": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
-        "signature": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_babel__template@7.0.2@@types/babel__template/index.d.ts": {
-        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
-        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_babel__core@7.1.8@@types/babel__core/index.d.ts": {
-        "version": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
-        "signature": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
-        "affectsGlobalScope": false
-      },
       "../node_modules/_@types_node@13.13.12@@types/node/globals.d.ts": {
         "version": "0a08f81d125dd658353234b6553bf48baa0104257f939f83dcd696a320cf5543",
         "signature": "0a08f81d125dd658353234b6553bf48baa0104257f939f83dcd696a320cf5543",
@@ -1621,6 +1396,536 @@
         "signature": "d522314e80ed71b57e3c2939d3c9594eaae63a4adf028559e6574f6b270b0fee",
         "affectsGlobalScope": false
       },
+      "../node_modules/_@types_bson@4.0.2@@types/bson/index.d.ts": {
+        "version": "3994ebfd11faa4018d8e1b879190046588f41f5cd60438e642ca39a705c726be",
+        "signature": "3994ebfd11faa4018d8e1b879190046588f41f5cd60438e642ca39a705c726be",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_mongodb@3.5.20@@types/mongodb/index.d.ts": {
+        "version": "fb9f3a28f4ae48bb27604032e665bfbec7cae59f89a1d394a761b4ba008eb89a",
+        "signature": "fb9f3a28f4ae48bb27604032e665bfbec7cae59f89a1d394a761b4ba008eb89a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts": {
+        "version": "0bae78e109123a98a83f243667c84788a9e270959a920bc52b968282e20958d8",
+        "signature": "0bae78e109123a98a83f243667c84788a9e270959a920bc52b968282e20958d8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts": {
+        "version": "8938e6bd62a9febec8e4b964fa35d9110633109d90639220c34cdbdf45342934",
+        "signature": "8938e6bd62a9febec8e4b964fa35d9110633109d90639220c34cdbdf45342934",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts": {
+        "version": "baa88fd0d4a2e335e5a77ee43afc5f3ea4bac209b93d6b46250b8c23d114c570",
+        "signature": "baa88fd0d4a2e335e5a77ee43afc5f3ea4bac209b93d6b46250b8c23d114c570",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts": {
+        "version": "77f7e1b189b00f5d21b8ba24ed859d4f4ec023ccf5cfcc25b7d4368b2bf85b5a",
+        "signature": "77f7e1b189b00f5d21b8ba24ed859d4f4ec023ccf5cfcc25b7d4368b2bf85b5a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts": {
+        "version": "d220f5b9cd1eb13f0ea8695d95b16a98bfeff1e1b6f08f59d6492f8c2f4c4a2d",
+        "signature": "d220f5b9cd1eb13f0ea8695d95b16a98bfeff1e1b6f08f59d6492f8c2f4c4a2d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts": {
+        "version": "a555a1ddc62608ed7fc967e7d7a39dc95d53838b4c82dd7167fde53375c41685",
+        "signature": "a555a1ddc62608ed7fc967e7d7a39dc95d53838b4c82dd7167fde53375c41685",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts": {
+        "version": "a8073882d24e2c886bd020a24d713c0d5339a5ef02880fc6ac37a8fbd8249ded",
+        "signature": "a8073882d24e2c886bd020a24d713c0d5339a5ef02880fc6ac37a8fbd8249ded",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts": {
+        "version": "94dc9ea7e7f54fb1de3e17798c96ca3e918e24dc0f012b02ba206121cc3cd997",
+        "signature": "94dc9ea7e7f54fb1de3e17798c96ca3e918e24dc0f012b02ba206121cc3cd997",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts": {
+        "version": "db30ed6969b842f3381fc9ebd9f24905254b1b24678a86dbdf3d2da132da191c",
+        "signature": "db30ed6969b842f3381fc9ebd9f24905254b1b24678a86dbdf3d2da132da191c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts": {
+        "version": "e64024a4a04004826635fb4917db7bb96fae2a23d54b3337218cbed2a4dedc80",
+        "signature": "e64024a4a04004826635fb4917db7bb96fae2a23d54b3337218cbed2a4dedc80",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts": {
+        "version": "d09c3f5037eed54bdda2a2f9247f57777c43630a9058f04c8af35e0492deb972",
+        "signature": "d09c3f5037eed54bdda2a2f9247f57777c43630a9058f04c8af35e0492deb972",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts": {
+        "version": "8175a36b599c577935626026e601e518c2fcdc7f6f533cdbbdd9d097ae3841b6",
+        "signature": "8175a36b599c577935626026e601e518c2fcdc7f6f533cdbbdd9d097ae3841b6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts": {
+        "version": "c3b3ae8a61f2e31a44f189a152a74b69cb0bf8b816bb54c97cc933ac7f75d2cb",
+        "signature": "c3b3ae8a61f2e31a44f189a152a74b69cb0bf8b816bb54c97cc933ac7f75d2cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts": {
+        "version": "b6d3c2603fbdbe2e6f621e148989cb607809ac46ee2bd25a31856a0ecdec9dac",
+        "signature": "b6d3c2603fbdbe2e6f621e148989cb607809ac46ee2bd25a31856a0ecdec9dac",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts": {
+        "version": "a3037653f272ae4db1fc882ef9ed7369513730feb3d7490ef1d083407e562bce",
+        "signature": "a3037653f272ae4db1fc882ef9ed7369513730feb3d7490ef1d083407e562bce",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts": {
+        "version": "d39356854a2966b1bb4f29f21c05efa74dbff3a364ff39b77607cbab879aa6ad",
+        "signature": "d39356854a2966b1bb4f29f21c05efa74dbff3a364ff39b77607cbab879aa6ad",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts": {
+        "version": "d6c190d777461604787b9f6a29f498d3d5c2f73b6417f05eb57b9ecefcdb40a3",
+        "signature": "d6c190d777461604787b9f6a29f498d3d5c2f73b6417f05eb57b9ecefcdb40a3",
+        "affectsGlobalScope": false
+      },
+      "../src/works/works.model.ts": {
+        "version": "79e13df708100a120d65706d0f4bfc7c761e17b3540703a606a9e9190752dd33",
+        "signature": "dd24ab40095c3d204bf7cc5d694e913c1a0550d1e5c1836ed81e3ea3ea6a2599",
+        "affectsGlobalScope": false
+      },
+      "../src/works/works.service.ts": {
+        "version": "be24ddab6cef9e0681292ad55236f8332ba1119680a169406226dbef045044be",
+        "signature": "6711be7a50a31a3e9a0c89131134df8fd76cb7262958c4a8fe1fd0c14a8aa3e2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts": {
+        "version": "6ecc423e71318bafbd230e6059e082c377170dfc7e02fccfa600586f8604d452",
+        "signature": "6ecc423e71318bafbd230e6059e082c377170dfc7e02fccfa600586f8604d452",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts": {
+        "version": "772f9bdd2bf50c9c01b0506001545e9b878faa7394ad6e7d90b49b179a024584",
+        "signature": "772f9bdd2bf50c9c01b0506001545e9b878faa7394ad6e7d90b49b179a024584",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts": {
+        "version": "7042fea4affa85bd05c1c7c9a2e42773738e3aced630b1c7e8e6b48e90a48069",
+        "signature": "7042fea4affa85bd05c1c7c9a2e42773738e3aced630b1c7e8e6b48e90a48069",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts": {
+        "version": "02dafa194c95b7c0293059512b8ea3bd95402c6e4bc8331dab7e92e842260c56",
+        "signature": "02dafa194c95b7c0293059512b8ea3bd95402c6e4bc8331dab7e92e842260c56",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts": {
+        "version": "10e0bec39a58664907f32d33b825155a4efea3e74e62bd57206bce35486891d6",
+        "signature": "10e0bec39a58664907f32d33b825155a4efea3e74e62bd57206bce35486891d6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts": {
+        "version": "cd1ccdd9fd7980d43dfede5d42ee3d18064baed98b136089cf7c8221d562f058",
+        "signature": "cd1ccdd9fd7980d43dfede5d42ee3d18064baed98b136089cf7c8221d562f058",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts": {
+        "version": "d60f9a4fd1e734e7b79517f02622426ea1000deb7d6549dfdece043353691a4e",
+        "signature": "d60f9a4fd1e734e7b79517f02622426ea1000deb7d6549dfdece043353691a4e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts": {
+        "version": "403d28b5e5f8fcff795ac038902033ec5890143e950af45bd91a3ed231e8b59c",
+        "signature": "403d28b5e5f8fcff795ac038902033ec5890143e950af45bd91a3ed231e8b59c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts": {
+        "version": "999fa84c5df2d19909d68a43ce89a5dddfb30e526f7796ea995809a09f53e393",
+        "signature": "999fa84c5df2d19909d68a43ce89a5dddfb30e526f7796ea995809a09f53e393",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts": {
+        "version": "a1c3f57b4a8fab964b3db5b6a9aeb8fd4472b58e0c51673984c59809f0b55fec",
+        "signature": "a1c3f57b4a8fab964b3db5b6a9aeb8fd4472b58e0c51673984c59809f0b55fec",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts": {
+        "version": "ae23a65a2b664ffe979b0a2a98842e10bdf3af67a356f14bbc9d77eb3ab13585",
+        "signature": "ae23a65a2b664ffe979b0a2a98842e10bdf3af67a356f14bbc9d77eb3ab13585",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts": {
+        "version": "eccf6ad2a8624329653896e8dbd03f30756cbd902a81b5d3942d6cf0e1a21575",
+        "signature": "eccf6ad2a8624329653896e8dbd03f30756cbd902a81b5d3942d6cf0e1a21575",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts": {
+        "version": "334ed2e25a7ebc8db8aac231bab5a5b57a1b6f8063186a92314f4ddf3d74d4e2",
+        "signature": "334ed2e25a7ebc8db8aac231bab5a5b57a1b6f8063186a92314f4ddf3d74d4e2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts": {
+        "version": "5af015a9834e0f5cf56a9089ddf0ca87a56bd3f8ad0eb79c8cc95968aa867923",
+        "signature": "5af015a9834e0f5cf56a9089ddf0ca87a56bd3f8ad0eb79c8cc95968aa867923",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts": {
+        "version": "62463aa3d299ae0cdc5473d2ac32213a05753c3adce87a8801c6d2b114a64116",
+        "signature": "62463aa3d299ae0cdc5473d2ac32213a05753c3adce87a8801c6d2b114a64116",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts": {
+        "version": "c9c2eabaad71c534d7de16385977f95184fdf3ddd0339dadbd5d599488d94f90",
+        "signature": "c9c2eabaad71c534d7de16385977f95184fdf3ddd0339dadbd5d599488d94f90",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts": {
+        "version": "bdf0a372e233a8f5ab5daba2763ab8897e1044d735c1698a261b8e2ab08d8d13",
+        "signature": "bdf0a372e233a8f5ab5daba2763ab8897e1044d735c1698a261b8e2ab08d8d13",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts": {
+        "version": "e217963df120e4e87abaf374c5060ade29b9b81dafc81287b3710f95b49ffde0",
+        "signature": "e217963df120e4e87abaf374c5060ade29b9b81dafc81287b3710f95b49ffde0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts": {
+        "version": "09500c54a8b7405b2300e5e1716fb1c35627ad90b966db78962fdeeb77d58461",
+        "signature": "09500c54a8b7405b2300e5e1716fb1c35627ad90b966db78962fdeeb77d58461",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts": {
+        "version": "f6b244e6e11ff78419f979c56e1c8eecd277c54fa932a1eae39f69530ed6b0ce",
+        "signature": "f6b244e6e11ff78419f979c56e1c8eecd277c54fa932a1eae39f69530ed6b0ce",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts": {
+        "version": "fef736cfb404b4db9aa942f377dbbac6edb76d18aabd3b647713fa75da8939e9",
+        "signature": "fef736cfb404b4db9aa942f377dbbac6edb76d18aabd3b647713fa75da8939e9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts": {
+        "version": "45659c92e49dfca4601acc7e57fbb03a71513c69768984baf86ead8d20387a01",
+        "signature": "45659c92e49dfca4601acc7e57fbb03a71513c69768984baf86ead8d20387a01",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts": {
+        "version": "44d8e9e3978043513ea75120312cee0705a65355fd1253dab6de966adc0409bc",
+        "signature": "44d8e9e3978043513ea75120312cee0705a65355fd1253dab6de966adc0409bc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts": {
+        "version": "f247409326a7d8d7efe135867ed4123e79eeafe9a8e2d894fc3d39e8a2d02dc0",
+        "signature": "f247409326a7d8d7efe135867ed4123e79eeafe9a8e2d894fc3d39e8a2d02dc0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts": {
+        "version": "88d4830f57f71112dc0a2e2068a827e7a6035b8b6ba38bd5e39cbda679afe024",
+        "signature": "88d4830f57f71112dc0a2e2068a827e7a6035b8b6ba38bd5e39cbda679afe024",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts": {
+        "version": "8fc97ef271771dc6f81a9c846d007ac4f0cb5779e3f441c1de54dfda5046fe7b",
+        "signature": "8fc97ef271771dc6f81a9c846d007ac4f0cb5779e3f441c1de54dfda5046fe7b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts": {
+        "version": "8b764503654cce10e3570288daa5f7c51a33fce4050eb56df8d4fca9662b8bdf",
+        "signature": "8b764503654cce10e3570288daa5f7c51a33fce4050eb56df8d4fca9662b8bdf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts": {
+        "version": "b64fec482d5c612291eebd81e32993663ee90a5dc05cfe43464e6ef5ee1cae73",
+        "signature": "b64fec482d5c612291eebd81e32993663ee90a5dc05cfe43464e6ef5ee1cae73",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts": {
+        "version": "2dd9d764938d20a0613b89b14d7da644f7be4a70d22f18c3019254029d7a7a3c",
+        "signature": "2dd9d764938d20a0613b89b14d7da644f7be4a70d22f18c3019254029d7a7a3c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts": {
+        "version": "021034a82ea821144b711eeba792f824f03d30b5cdb3b20a63e9bc5ad0531fdf",
+        "signature": "021034a82ea821144b711eeba792f824f03d30b5cdb3b20a63e9bc5ad0531fdf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts": {
+        "version": "b251114717c08c462c1a8388155ded58cbdfbadc13488b775a4eaaa59863dc46",
+        "signature": "b251114717c08c462c1a8388155ded58cbdfbadc13488b775a4eaaa59863dc46",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts": {
+        "version": "a2e546426763a9d5d4b5b10b928fb312f8b76e581c8a985362cd04a01859e51a",
+        "signature": "a2e546426763a9d5d4b5b10b928fb312f8b76e581c8a985362cd04a01859e51a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts": {
+        "version": "33bb0d96cea9782d701332e6b7390f8efae3af92fd3e2aa2ac45e4a610e705d6",
+        "signature": "33bb0d96cea9782d701332e6b7390f8efae3af92fd3e2aa2ac45e4a610e705d6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts": {
+        "version": "ae3e98448468e46474d817b5ebe74db11ab22c2feb60e292d96ce1a4ee963623",
+        "signature": "ae3e98448468e46474d817b5ebe74db11ab22c2feb60e292d96ce1a4ee963623",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts": {
+        "version": "f0a2fdee9e801ac9320a8660dd6b8a930bf8c5b658d390ae0feafdba8b633688",
+        "signature": "f0a2fdee9e801ac9320a8660dd6b8a930bf8c5b658d390ae0feafdba8b633688",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts": {
+        "version": "7beb7f04f6186bdac5e622d44e4cac38d9f2b9fcad984b10d3762e369524dd77",
+        "signature": "7beb7f04f6186bdac5e622d44e4cac38d9f2b9fcad984b10d3762e369524dd77",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts": {
+        "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+        "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
+        "affectsGlobalScope": false
+      },
+      "../src/works/works.dto.ts": {
+        "version": "6d5aa6acb3e2eae540a686af8cbf534da4fe7f28c4ec5b5b269dfdde038e952a",
+        "signature": "094d3911358fc6ee58384a1524d2e97c43831eebb73b6c2a0073d4e0d2e9465c",
+        "affectsGlobalScope": false
+      },
+      "../src/works/works.controller.ts": {
+        "version": "7e7aafa7d41043155c6df0e875985cc751d823291c65aed05071d33fd59f7c27",
+        "signature": "07e3630060cb78cd84fe9666d047a8908ceb83d9f43d9c481a780c95122f4708",
+        "affectsGlobalScope": false
+      },
+      "../src/works/works.module.ts": {
+        "version": "d329d9f9387d9d4cef2a971cabc1f8be5070c76ee3ade3da598678a506843f27",
+        "signature": "e63acbe25fe3336134fe2b79ca14c21c81b24dd3c1e54ec79d0fe2d59484c611",
+        "affectsGlobalScope": false
+      },
+      "../src/app.module.ts": {
+        "version": "0a4678f7d0c3c23b78f3bba5e5751d1e7a79b9cc830943b6e73948f8481bcb6f",
+        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/adapters/http-adapter.d.ts": {
+        "version": "71cc7da1ef9d96f44a214a43017535538b47988d4bc9dedbf7592d2f9fe10da9",
+        "signature": "71cc7da1ef9d96f44a214a43017535538b47988d4bc9dedbf7592d2f9fe10da9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/adapters/index.d.ts": {
+        "version": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
+        "signature": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module-token-factory.d.ts": {
+        "version": "27484cb3aa328bc5d0957fcb34df68a5db1be280af510d9ed3a282b1a0a93b38",
+        "signature": "27484cb3aa328bc5d0957fcb34df68a5db1be280af510d9ed3a282b1a0a93b38",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/modules-container.d.ts": {
+        "version": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
+        "signature": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/container.d.ts": {
+        "version": "c2d1faec57a59a8ba57dd00354c6e6ca96eb5345209cbd248565817302bfa422",
+        "signature": "c2d1faec57a59a8ba57dd00354c6e6ca96eb5345209cbd248565817302bfa422",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module.d.ts": {
+        "version": "3567bf24724bd85350a97909a4323b806c77707c3954501836a5aae7201480b3",
+        "signature": "3567bf24724bd85350a97909a4323b806c77707c3954501836a5aae7201480b3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/instance-wrapper.d.ts": {
+        "version": "841487542d9a8f579ba6f644f754c5b90ed872a345d2a3fa4b08077db03e7027",
+        "signature": "841487542d9a8f579ba6f644f754c5b90ed872a345d2a3fa4b08077db03e7027",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/application-config.d.ts": {
+        "version": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
+        "signature": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/constants.d.ts": {
+        "version": "f23601713615719b1a1394deae884fb9f507de819a086d5a019c63793da9efc6",
+        "signature": "f23601713615719b1a1394deae884fb9f507de819a086d5a019c63793da9efc6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/discovery-module.d.ts": {
+        "version": "50fd11b764194f06977c162c37e5a70bcf0d3579bf82dd4de4eee3ac68d0f82f",
+        "signature": "50fd11b764194f06977c162c37e5a70bcf0d3579bf82dd4de4eee3ac68d0f82f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/discovery-service.d.ts": {
+        "version": "ad5ad568f2f537a43dcc1588b2379f9dc79539ae36b8821b13a5d03625211eb2",
+        "signature": "ad5ad568f2f537a43dcc1588b2379f9dc79539ae36b8821b13a5d03625211eb2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/discovery/index.d.ts": {
+        "version": "99579aa074ed298e7a3d6a47e68f0cd099e92411212d5081ce88344a5b1b528d",
+        "signature": "99579aa074ed298e7a3d6a47e68f0cd099e92411212d5081ce88344a5b1b528d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/context-id-factory.d.ts": {
+        "version": "a4d05f346ba48f5685f9142fdd90b1e12e463535c38bdea74fce64813f2a8661",
+        "signature": "a4d05f346ba48f5685f9142fdd90b1e12e463535c38bdea74fce64813f2a8661",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/http-adapter-host.d.ts": {
+        "version": "d2d58166965f631fa203f405f3713b0f86f1f8b80755e9daea43057a25311e16",
+        "signature": "d2d58166965f631fa203f405f3713b0f86f1f8b80755e9daea43057a25311e16",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/helpers/index.d.ts": {
+        "version": "0256d60785ede7860b5262f504f139aa68f74db44ba9f03807b752864580772c",
+        "signature": "0256d60785ede7860b5262f504f139aa68f74db44ba9f03807b752864580772c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/exceptions/base-exception-filter.d.ts": {
+        "version": "e4fc4090c3687640d033fd75585ccb54dcdf3bf406338228df50b0dcee0314d0",
+        "signature": "e4fc4090c3687640d033fd75585ccb54dcdf3bf406338228df50b0dcee0314d0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/exceptions/index.d.ts": {
+        "version": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
+        "signature": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/module-ref.d.ts": {
+        "version": "aa4ed21b4b33ab003d37dc1ac1a169f1f0e5a2fcd56539449e2994f39af12917",
+        "signature": "aa4ed21b4b33ab003d37dc1ac1a169f1f0e5a2fcd56539449e2994f39af12917",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/inquirer/inquirer-constants.d.ts": {
+        "version": "396c1e5a39706999ec8cc582916e05fcb4f901631d2c192c1292e95089a494d9",
+        "signature": "396c1e5a39706999ec8cc582916e05fcb4f901631d2c192c1292e95089a494d9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/inquirer/index.d.ts": {
+        "version": "89df75d28f34fc698fe261f9489125b4e5828fbd62d863bbe93373d3ed995056",
+        "signature": "89df75d28f34fc698fe261f9489125b4e5828fbd62d863bbe93373d3ed995056",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/index.d.ts": {
+        "version": "e99e3ad9035927f61b1d6b54c51fca01e46bdcaf861fd9484086d871e76d0aef",
+        "signature": "e99e3ad9035927f61b1d6b54c51fca01e46bdcaf861fd9484086d871e76d0aef",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/metadata-scanner.d.ts": {
+        "version": "7cb9b6d5c1e3508fbc81e7bbab314eac54715f9326ac72fd0eb65f17a4393d50",
+        "signature": "7cb9b6d5c1e3508fbc81e7bbab314eac54715f9326ac72fd0eb65f17a4393d50",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/routes-mapper.d.ts": {
+        "version": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
+        "signature": "5175a0f207a73df7426acc2bdc854b0c4bfab7434742f873816f0fc71f4fa2f5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/builder.d.ts": {
+        "version": "9daabcf8cac2bd41d4cb83511c0358fc24650fd08f9ae73e888582285a116a3f",
+        "signature": "9daabcf8cac2bd41d4cb83511c0358fc24650fd08f9ae73e888582285a116a3f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/middleware/index.d.ts": {
+        "version": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
+        "signature": "82d3e00d56a71fc169f3cf9ec5f5ffcc92f6c0e67d4dfc130dafe9f1886d5515",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/injector/injector.d.ts": {
+        "version": "277c4deaebf4165aaf2ee4ac703cc38ec75c01905e0bbff8fa169fc5978b9379",
+        "signature": "277c4deaebf4165aaf2ee4ac703cc38ec75c01905e0bbff8fa169fc5978b9379",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-application-context.d.ts": {
+        "version": "1be8ef33b2221024735c62496e1d87bc5596cb26e023b8d4ea58030d5e2ee8ce",
+        "signature": "1be8ef33b2221024735c62496e1d87bc5596cb26e023b8d4ea58030d5e2ee8ce",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-application.d.ts": {
+        "version": "398ee5590d2e022f7c00f0c1f049db902cd8c7a2bf9bfacac5bef35cc8977aa7",
+        "signature": "398ee5590d2e022f7c00f0c1f049db902cd8c7a2bf9bfacac5bef35cc8977aa7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts": {
+        "version": "e3d221660c0b79a9a3ba1111b3dfbb1136c0b52d7609b0054d3ce09ce711a3e6",
+        "signature": "e3d221660c0b79a9a3ba1111b3dfbb1136c0b52d7609b0054d3ce09ce711a3e6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/nest-factory.d.ts": {
+        "version": "6f168d1a3ca37d9ab1b8559bdeab7e22a384df4a5828c01190614700fe20a8cb",
+        "signature": "6f168d1a3ca37d9ab1b8559bdeab7e22a384df4a5828c01190614700fe20a8cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/request/request-constants.d.ts": {
+        "version": "e47adc2176f43c617c0ab47f2d9b2bb1706d9e0669bf349a30c3fe09ddd63261",
+        "signature": "e47adc2176f43c617c0ab47f2d9b2bb1706d9e0669bf349a30c3fe09ddd63261",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/request/index.d.ts": {
+        "version": "7fec79dfd7319fec7456b1b53134edb54c411ba493a0aef350eee75a4f223eeb",
+        "signature": "7fec79dfd7319fec7456b1b53134edb54c411ba493a0aef350eee75a4f223eeb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/index.d.ts": {
+        "version": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
+        "signature": "c6d07008f2a83d1294adf9fb18b9fe6c0e01964a66263c5a827d7ff0d0cd7abd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/reflector.service.d.ts": {
+        "version": "abdc0a8843b28c3cafbefb90079690b17b7b4e2a9c9bbf2cd8762e11a3958034",
+        "signature": "abdc0a8843b28c3cafbefb90079690b17b7b4e2a9c9bbf2cd8762e11a3958034",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/index.d.ts": {
+        "version": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
+        "signature": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/index.d.ts": {
+        "version": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
+        "signature": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
+        "affectsGlobalScope": false
+      },
+      "../src/main.ts": {
+        "version": "7e3d9321c846d02f3ffcc8bbc55654f9cbde92fcd1f26e5151a1fc092cc5d1bc",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_anymatch@1.3.1@@types/anymatch/index.d.ts": {
+        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@babel_types@7.10.2@@babel/types/lib/index.d.ts": {
+        "version": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
+        "signature": "7ee922c7a87439793beb93c017322c08ec832f3929d65ace7db85079c6247f2c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_babel__generator@7.6.1@@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_babel__traverse@7.0.12@@types/babel__traverse/index.d.ts": {
+        "version": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
+        "signature": "cc0e8c69a59c7e4e15bd28e1eebe9a660c47c202e298cb20a93285368051193f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@babel_parser@7.10.2@@babel/parser/typings/babel-parser.d.ts": {
+        "version": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
+        "signature": "fa7d1d20dd776b2dd40931cb3ae865dd624f38edd86f3407344b609e43def590",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_babel__template@7.0.2@@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_babel__core@7.1.8@@types/babel__core/index.d.ts": {
+        "version": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
+        "signature": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
+        "affectsGlobalScope": false
+      },
       "../node_modules/_@types_connect@3.4.33@@types/connect/index.d.ts": {
         "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
         "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
@@ -1629,11 +1934,6 @@
       "../node_modules/_@types_body-parser@1.19.0@@types/body-parser/index.d.ts": {
         "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
         "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_bson@4.0.2@@types/bson/index.d.ts": {
-        "version": "3994ebfd11faa4018d8e1b879190046588f41f5cd60438e642ca39a705c726be",
-        "signature": "3994ebfd11faa4018d8e1b879190046588f41f5cd60438e642ca39a705c726be",
         "affectsGlobalScope": false
       },
       "../node_modules/_@types_color-name@1.1.1@@types/color-name/index.d.ts": {
@@ -1749,16 +2049,6 @@
       "../node_modules/_@types_json5@0.0.29@@types/json5/index.d.ts": {
         "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
         "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_mongodb@3.5.20@@types/mongodb/index.d.ts": {
-        "version": "fb9f3a28f4ae48bb27604032e665bfbec7cae59f89a1d394a761b4ba008eb89a",
-        "signature": "fb9f3a28f4ae48bb27604032e665bfbec7cae59f89a1d394a761b4ba008eb89a",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts": {
-        "version": "0bae78e109123a98a83f243667c84788a9e270959a920bc52b968282e20958d8",
-        "signature": "0bae78e109123a98a83f243667c84788a9e270959a920bc52b968282e20958d8",
         "affectsGlobalScope": false
       },
       "../node_modules/_@types_normalize-package-data@2.4.0@@types/normalize-package-data/index.d.ts": {
@@ -3368,6 +3658,469 @@
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
       ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_reflect-metadata@0.1.13@reflect-metadata/index.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_reflect-metadata@0.1.13@reflect-metadata/index.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.7/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
       "../node_modules/_@types_anymatch@1.3.1@@types/anymatch/index.d.ts": [
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
@@ -4183,6 +4936,13 @@
         "../node_modules/_jest-diff@25.5.0@jest-diff/build/types.d.ts"
       ],
       "../node_modules/_jest-diff@25.5.0@jest-diff/build/types.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts": [
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
@@ -5103,7 +5863,8 @@
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
         "../src/app.controller.ts",
-        "../src/app.service.ts"
+        "../src/app.service.ts",
+        "../src/works/works.module.ts"
       ],
       "../src/app.service.ts": [
         "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
@@ -5115,12 +5876,60 @@
       ],
       "../src/main.ts": [
         "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
         "../src/app.module.ts"
+      ],
+      "../src/works/works.controller.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/works/works.dto.ts",
+        "../src/works/works.service.ts"
+      ],
+      "../src/works/works.dto.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../src/works/works.model.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../src/works/works.module.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/works/works.controller.ts",
+        "../src/works/works.service.ts"
+      ],
+      "../src/works/works.service.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/works/works.model.ts"
       ]
     },
     "exportedModulesMap": {
@@ -6646,6 +7455,469 @@
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
       ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_reflect-metadata@0.1.13@reflect-metadata/index.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../node_modules/_reflect-metadata@0.1.13@reflect-metadata/index.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.7/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
       "../node_modules/_@types_anymatch@1.3.1@@types/anymatch/index.d.ts": [
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
@@ -7461,6 +8733,13 @@
         "../node_modules/_jest-diff@25.5.0@jest-diff/build/types.d.ts"
       ],
       "../node_modules/_jest-diff@25.5.0@jest-diff/build/types.d.ts": [
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts": [
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
@@ -8366,6 +9645,19 @@
       ],
       "../src/app.controller.ts": [
         "../src/app.service.ts"
+      ],
+      "../src/works/works.controller.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../src/works/works.dto.ts",
+        "../src/works/works.model.ts",
+        "../src/works/works.service.ts"
+      ],
+      "../src/works/works.model.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts"
+      ],
+      "../src/works/works.service.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../src/works/works.model.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -8536,6 +9828,58 @@
       "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/router/request/request-constants.d.ts",
       "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/index.d.ts",
       "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/services/reflector.service.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-bearer.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-body.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-consumes.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-cookie.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-exclude-endpoint.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extension.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-extra-models.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-header.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-hide-property.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-oauth2.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-operation.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-param.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-produces.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-property.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-query.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-response.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-security.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-use-tags.decorator.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/index.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/document-builder.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/index.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/index.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/open-api-spec.interface.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/schema-object-metadata.interface.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-custom-options.interface.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/interfaces/swagger-document-options.interface.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/swagger-module.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/index.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/intersection-type.helper.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/omit-type.helper.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/partial-type.helper.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/type-helpers/pick-type.helper.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/types/swagger-enum.type.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/get-schema-path.util.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/utils/index.d.ts",
+      "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/defaultclasses.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/globaloptions.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/hooks.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/index.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/constants.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/errors.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/internal/utils.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/logsettings.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/modeloptions.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/plugin.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/prop.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/querymethod.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typeguards.d.ts",
+      "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/types.d.ts",
       "../node_modules/_@types_anymatch@1.3.1@@types/anymatch/index.d.ts",
       "../node_modules/_@types_babel__core@7.1.8@@types/babel__core/index.d.ts",
       "../node_modules/_@types_babel__generator@7.6.1@@types/babel__generator/index.d.ts",
@@ -8630,6 +9974,7 @@
       "../node_modules/_jest-diff@25.5.0@jest-diff/build/index.d.ts",
       "../node_modules/_jest-diff@25.5.0@jest-diff/build/printdiffs.d.ts",
       "../node_modules/_jest-diff@25.5.0@jest-diff/build/types.d.ts",
+      "../node_modules/_loglevel@1.6.8@loglevel/index.d.ts",
       "../node_modules/_pretty-format@25.5.0@pretty-format/build/index.d.ts",
       "../node_modules/_pretty-format@25.5.0@pretty-format/build/types.d.ts",
       "../node_modules/_reflect-metadata@0.1.13@reflect-metadata/index.d.ts",
@@ -8734,7 +10079,12 @@
       "../src/app.controller.ts",
       "../src/app.module.ts",
       "../src/app.service.ts",
-      "../src/main.ts"
+      "../src/main.ts",
+      "../src/works/works.controller.ts",
+      "../src/works/works.dto.ts",
+      "../src/works/works.model.ts",
+      "../src/works/works.module.ts",
+      "../src/works/works.service.ts"
     ]
   },
   "version": "3.9.5"
