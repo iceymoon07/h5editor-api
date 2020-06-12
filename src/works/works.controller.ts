@@ -11,19 +11,19 @@ export class WorksController {
     @Get('/')
     @ApiOperation({ summary: '列出所有作品' })
     async findAll() {
-        return this.worksService.findAll()
+        return await this.worksService.findAll()
     }
 
     @Get(':id')
     @ApiOperation({ summary: '根据 id 查找作品' })
     async findOne(@Param('id') id: string) {
-        return this.worksService.findOne(id)
+        return await this.worksService.findOne(id)
     }
 
     @Post('/')
     @ApiOperation({ summary: '创建新作品' })
     async create(@Body() createWorkDto: WorkDto) {
-        this.worksService.create(createWorkDto)
+        await this.worksService.create(createWorkDto)
         return {
             message: '创建成功'
         }
@@ -32,7 +32,7 @@ export class WorksController {
     @Put(':id')
     @ApiOperation({ summary: '修改对应 id 的作品' })
     async update(@Param('id') id: string, @Body() updateWorkDto: WorkDto) {
-        this.worksService.update(id, updateWorkDto)
+        await this.worksService.update(id, updateWorkDto)
         return {
             message: '修改成功'
         }
@@ -41,7 +41,7 @@ export class WorksController {
     @Delete(':id')
     @ApiOperation({ summary: '删除对应 id 的作品' })
     async delete(@Param('id') id: string) {
-        this.worksService.delete(id)
+        await this.worksService.delete(id)
         return {
             message: '删除成功'
         }

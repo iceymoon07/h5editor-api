@@ -1492,13 +1492,13 @@
         "affectsGlobalScope": false
       },
       "../src/works/works.model.ts": {
-        "version": "79e13df708100a120d65706d0f4bfc7c761e17b3540703a606a9e9190752dd33",
-        "signature": "dd24ab40095c3d204bf7cc5d694e913c1a0550d1e5c1836ed81e3ea3ea6a2599",
+        "version": "d9a23a8cebf57732f7c1f678667e6fcae419987db61767150ff8fd479bda3951",
+        "signature": "6ecd70406cd69ee27812b0ef08d91b872eea90a0cd50b08b233e8d3d8d4be236",
         "affectsGlobalScope": false
       },
       "../src/works/works.service.ts": {
-        "version": "be24ddab6cef9e0681292ad55236f8332ba1119680a169406226dbef045044be",
-        "signature": "6711be7a50a31a3e9a0c89131134df8fd76cb7262958c4a8fe1fd0c14a8aa3e2",
+        "version": "878abfec6fd7742a1d82acb29aafe5a869ee32b353a3c9fb3ccce9e26e735e53",
+        "signature": "798a29a3c4a577eab7134b53e899c1d7d1f2b34dcf3ff9de7d67ab69a8b7ce49",
         "affectsGlobalScope": false
       },
       "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/dist/decorators/api-basic.decorator.d.ts": {
@@ -1687,13 +1687,13 @@
         "affectsGlobalScope": false
       },
       "../src/works/works.dto.ts": {
-        "version": "6d5aa6acb3e2eae540a686af8cbf534da4fe7f28c4ec5b5b269dfdde038e952a",
-        "signature": "094d3911358fc6ee58384a1524d2e97c43831eebb73b6c2a0073d4e0d2e9465c",
+        "version": "f925b6facac971e313b21b53b1ccbfacf09e4ba15f12c393865ad3d68e10a927",
+        "signature": "40b286b094211651d1f4212f3a8675fdee52024eb91895b68131eb30b10e9442",
         "affectsGlobalScope": false
       },
       "../src/works/works.controller.ts": {
-        "version": "7e7aafa7d41043155c6df0e875985cc751d823291c65aed05071d33fd59f7c27",
-        "signature": "07e3630060cb78cd84fe9666d047a8908ceb83d9f43d9c481a780c95122f4708",
+        "version": "538fc8a6b3b5e65264f9b5d360daaf7880a55746eac68e6108cbef08a2f85217",
+        "signature": "8ef4c63a6006d524008ea9b19d1e23e379540d50ed58c63d02122661f381da18",
         "affectsGlobalScope": false
       },
       "../src/works/works.module.ts": {
@@ -1701,9 +1701,79 @@
         "signature": "e63acbe25fe3336134fe2b79ca14c21c81b24dd3c1e54ec79d0fe2d59484c611",
         "affectsGlobalScope": false
       },
+      "../src/users/users.model.ts": {
+        "version": "5d3157e7e40cc022e04d37fb8a2aeaed9bca75697bed8a60b1c4827be6baace7",
+        "signature": "4f4868753772fd4b87f04bc43fd73048ad30c3977693dfbd9f7a3590165e4786",
+        "affectsGlobalScope": false
+      },
+      "../src/users/users.service.ts": {
+        "version": "e6dddaa989ce27040a2e0a30bd63dfc4aed72408b14c08851c2ed5452e4d20f6",
+        "signature": "dae18282a13c7c53eff9e65f1383b86189f7836107cdcce8578e8100a0d2a6b7",
+        "affectsGlobalScope": false
+      },
+      "../src/users/users.dto.ts": {
+        "version": "f8c3c2b51812b33641b1d0ba07ab498d302dd63f8f1a8620e665ba6c9872b752",
+        "signature": "5133f6a6c5d1b7637ef0ca3dea08cf448f80bdf54bf6d43711a161fea98fe65b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_range-parser@1.2.3@@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_qs@6.9.3@@types/qs/index.d.ts": {
+        "version": "b9cd23278040e3d4ea73660829a5c0d25cc303e493f79668e605f69edaf6d7b7",
+        "signature": "b9cd23278040e3d4ea73660829a5c0d25cc303e493f79668e605f69edaf6d7b7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_express-serve-static-core@4.17.7@@types/express-serve-static-core/index.d.ts": {
+        "version": "814f4d16f7e7c47feaba5979673dcc60b6d5f7e87b247ea5da1dbc83a6da9387",
+        "signature": "814f4d16f7e7c47feaba5979673dcc60b6d5f7e87b247ea5da1dbc83a6da9387",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/_@types_mime@2.0.2@@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_serve-static@1.13.4@@types/serve-static/index.d.ts": {
+        "version": "5b56da2c458a9522dbfec8ee94287abe037f52fc9dea766d87bd9aaf100cf14f",
+        "signature": "5b56da2c458a9522dbfec8ee94287abe037f52fc9dea766d87bd9aaf100cf14f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_connect@3.4.33@@types/connect/index.d.ts": {
+        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_body-parser@1.19.0@@types/body-parser/index.d.ts": {
+        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts": {
+        "version": "ead1ed9dd4874f4907a506a31e4fe9c4e079b42816f6b7ea5016a6d5ddf2fde3",
+        "signature": "ead1ed9dd4874f4907a506a31e4fe9c4e079b42816f6b7ea5016a6d5ddf2fde3",
+        "affectsGlobalScope": false
+      },
+      "../src/users/users.controller.ts": {
+        "version": "e1242adeedb8b571cfa58454aa0bc1b17b58e8e1c09ddb2a1fa1e1caef3ab3fb",
+        "signature": "82c6edba7ff91f6e9dae1531d040e0fb11bfa8182011af763565e8946bc543ae",
+        "affectsGlobalScope": false
+      },
+      "../src/users/users.module.ts": {
+        "version": "39fd4456cdb76379766d5a0cfc020f61ee84b981a99ef06cebc6c733d9446808",
+        "signature": "12dec6c99bd8d11167fa91a31e737abbbf8c9cc789c151a25a9a1d13f328175c",
+        "affectsGlobalScope": false
+      },
+      "../src/middlewares/authlogin.middleware.ts": {
+        "version": "c7bba9043ddbfb3d7f909666137c09f90f0a43512356b65602659bb703ada892",
+        "signature": "776eea6410d98067a76b88932b0a69f360fa95eedb490c37a023375b1c75a43a",
+        "affectsGlobalScope": false
+      },
       "../src/app.module.ts": {
-        "version": "0a4678f7d0c3c23b78f3bba5e5751d1e7a79b9cc830943b6e73948f8481bcb6f",
-        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88",
+        "version": "67bc4230e3dd2184889e781f56ad1ca384f7c82e63afbc3dcb7b6c2db7ef158d",
+        "signature": "843f051400e86a3e4de923e5b7271bfa660bd889abf5fee0dce89d6ded83b42c",
         "affectsGlobalScope": false
       },
       "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/adapters/http-adapter.d.ts": {
@@ -1886,8 +1956,13 @@
         "signature": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d",
         "affectsGlobalScope": false
       },
+      "../node_modules/_@types_express-session@1.17.0@@types/express-session/index.d.ts": {
+        "version": "3e03ea3c4d568a10e41f540bc891c5fb42c036a430187132e599176f7974eaf7",
+        "signature": "3e03ea3c4d568a10e41f540bc891c5fb42c036a430187132e599176f7974eaf7",
+        "affectsGlobalScope": true
+      },
       "../src/main.ts": {
-        "version": "7e3d9321c846d02f3ffcc8bbc55654f9cbde92fcd1f26e5151a1fc092cc5d1bc",
+        "version": "700f36f9ad385b5684e79073176e989d1110b0b87db1086727fbe7304b4f8b72",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
         "affectsGlobalScope": false
       },
@@ -1926,16 +2001,6 @@
         "signature": "ab3e92a5a46b6ded50c6b9e7de05739fa1de6df50e24a14706a5cc525300548b",
         "affectsGlobalScope": false
       },
-      "../node_modules/_@types_connect@3.4.33@@types/connect/index.d.ts": {
-        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
-        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_body-parser@1.19.0@@types/body-parser/index.d.ts": {
-        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
-        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
-        "affectsGlobalScope": false
-      },
       "../node_modules/_@types_color-name@1.1.1@@types/color-name/index.d.ts": {
         "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
         "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
@@ -1949,36 +2014,6 @@
       "../node_modules/_@types_eslint-visitor-keys@1.0.0@@types/eslint-visitor-keys/index.d.ts": {
         "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
         "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_range-parser@1.2.3@@types/range-parser/index.d.ts": {
-        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
-        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_qs@6.9.3@@types/qs/index.d.ts": {
-        "version": "b9cd23278040e3d4ea73660829a5c0d25cc303e493f79668e605f69edaf6d7b7",
-        "signature": "b9cd23278040e3d4ea73660829a5c0d25cc303e493f79668e605f69edaf6d7b7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_express-serve-static-core@4.17.7@@types/express-serve-static-core/index.d.ts": {
-        "version": "814f4d16f7e7c47feaba5979673dcc60b6d5f7e87b247ea5da1dbc83a6da9387",
-        "signature": "814f4d16f7e7c47feaba5979673dcc60b6d5f7e87b247ea5da1dbc83a6da9387",
-        "affectsGlobalScope": true
-      },
-      "../node_modules/_@types_mime@2.0.2@@types/mime/index.d.ts": {
-        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
-        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_serve-static@1.13.4@@types/serve-static/index.d.ts": {
-        "version": "5b56da2c458a9522dbfec8ee94287abe037f52fc9dea766d87bd9aaf100cf14f",
-        "signature": "5b56da2c458a9522dbfec8ee94287abe037f52fc9dea766d87bd9aaf100cf14f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts": {
-        "version": "ead1ed9dd4874f4907a506a31e4fe9c4e079b42816f6b7ea5016a6d5ddf2fde3",
-        "signature": "ead1ed9dd4874f4907a506a31e4fe9c4e079b42816f6b7ea5016a6d5ddf2fde3",
         "affectsGlobalScope": false
       },
       "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts": {
@@ -4225,6 +4260,16 @@
         "../node_modules/_@types_qs@6.9.3@@types/qs/index.d.ts",
         "../node_modules/_@types_range-parser@1.2.3@@types/range-parser/index.d.ts"
       ],
+      "../node_modules/_@types_express-session@1.17.0@@types/express-session/index.d.ts": [
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/events.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.7/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
       "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts": [
         "../node_modules/_@types_body-parser@1.19.0@@types/body-parser/index.d.ts",
         "../node_modules/_@types_express-serve-static-core@4.17.7@@types/express-serve-static-core/index.d.ts",
@@ -5864,6 +5909,8 @@
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
         "../src/app.controller.ts",
         "../src/app.service.ts",
+        "../src/middlewares/authlogin.middleware.ts",
+        "../src/users/users.module.ts",
         "../src/works/works.module.ts"
       ],
       "../src/app.service.ts": [
@@ -5877,6 +5924,7 @@
       "../src/main.ts": [
         "../node_modules/_@nestjs_core@7.1.3@@nestjs/core/index.d.ts",
         "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+        "../node_modules/_@types_express-session@1.17.0@@types/express-session/index.d.ts",
         "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
         "../node_modules/_@types_mongoose@5.7.23@@types/mongoose/index.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
@@ -5884,6 +5932,62 @@
         "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
         "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
         "../src/app.module.ts"
+      ],
+      "../src/middlewares/authlogin.middleware.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../src/users/users.controller.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/users/users.dto.ts",
+        "../src/users/users.service.ts"
+      ],
+      "../src/users/users.dto.ts": [
+        "../node_modules/_@nestjs_swagger@4.5.10@@nestjs/swagger/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../src/users/users.model.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
+      "../src/users/users.module.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/users/users.controller.ts",
+        "../src/users/users.service.ts"
+      ],
+      "../src/users/users.service.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts",
+        "../src/users/users.model.ts"
       ],
       "../src/works/works.controller.ts": [
         "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
@@ -8022,6 +8126,16 @@
         "../node_modules/_@types_qs@6.9.3@@types/qs/index.d.ts",
         "../node_modules/_@types_range-parser@1.2.3@@types/range-parser/index.d.ts"
       ],
+      "../node_modules/_@types_express-session@1.17.0@@types/express-session/index.d.ts": [
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
+        "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/events.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/fs.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.2/util.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/ts3.7/index.d.ts",
+        "../node_modules/_@types_node@13.13.12@@types/node/util.d.ts"
+      ],
       "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts": [
         "../node_modules/_@types_body-parser@1.19.0@@types/body-parser/index.d.ts",
         "../node_modules/_@types_express-serve-static-core@4.17.7@@types/express-serve-static-core/index.d.ts",
@@ -9646,6 +9760,27 @@
       "../src/app.controller.ts": [
         "../src/app.service.ts"
       ],
+      "../src/app.module.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts"
+      ],
+      "../src/middlewares/authlogin.middleware.ts": [
+        "../node_modules/_@nestjs_common@7.1.3@@nestjs/common/index.d.ts",
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts"
+      ],
+      "../src/users/users.controller.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
+        "../src/users/users.dto.ts",
+        "../src/users/users.model.ts",
+        "../src/users/users.service.ts"
+      ],
+      "../src/users/users.model.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts"
+      ],
+      "../src/users/users.service.ts": [
+        "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
+        "../src/users/users.model.ts"
+      ],
       "../src/works/works.controller.ts": [
         "../node_modules/_@typegoose_typegoose@7.2.0@@typegoose/typegoose/lib/typegoose.d.ts",
         "../src/works/works.dto.ts",
@@ -9892,6 +10027,7 @@
       "../node_modules/_@types_cookiejar@2.1.1@@types/cookiejar/index.d.ts",
       "../node_modules/_@types_eslint-visitor-keys@1.0.0@@types/eslint-visitor-keys/index.d.ts",
       "../node_modules/_@types_express-serve-static-core@4.17.7@@types/express-serve-static-core/index.d.ts",
+      "../node_modules/_@types_express-session@1.17.0@@types/express-session/index.d.ts",
       "../node_modules/_@types_express@4.17.6@@types/express/index.d.ts",
       "../node_modules/_@types_graceful-fs@4.1.3@@types/graceful-fs/index.d.ts",
       "../node_modules/_@types_istanbul-lib-coverage@2.0.3@@types/istanbul-lib-coverage/index.d.ts",
@@ -10080,6 +10216,12 @@
       "../src/app.module.ts",
       "../src/app.service.ts",
       "../src/main.ts",
+      "../src/middlewares/authlogin.middleware.ts",
+      "../src/users/users.controller.ts",
+      "../src/users/users.dto.ts",
+      "../src/users/users.model.ts",
+      "../src/users/users.module.ts",
+      "../src/users/users.service.ts",
       "../src/works/works.controller.ts",
       "../src/works/works.dto.ts",
       "../src/works/works.model.ts",

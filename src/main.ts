@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import * as mongoose from 'mongoose';
+import * as session from 'express-session';
 import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 
 async function bootstrap() {
@@ -8,7 +9,8 @@ async function bootstrap() {
   mongoose.connect('mongodb://localhost/h5editor', {
     useNewUrlParser: true,
     useFindAndModify: false,
-    useCreateIndex: true
+    useCreateIndex: true,
+    useUnifiedTopology: true
   }).catch(err => { console.log(err) });
   const options = new DocumentBuilder()
     .setTitle('h5editor-api')
@@ -16,7 +18,13 @@ async function bootstrap() {
     .setVersion('1.0')
     .build();
   const document = SwaggerModule.createDocument(app, options);
-  SwaggerModule.setup('api-docs', app, document)
-  await app.listen(3000);
+  SwaggerModule.setup('api-docs', app, document);
+  app.use(session({
+    secret: 'iceymoon',
+    name: 'userInfo',
+    resave: false,
+    saveUninitialized: true
+  }))
+  await app.listen(7000);
 }
 bootstrap();

@@ -16,7 +16,7 @@ export class WorksService {
     }
 
     async findOne(id: string) {
-        await WorkModel.findById(id)
+        return await WorkModel.findById(id)
     }
 
     async findAll() {
