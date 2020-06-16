@@ -27,7 +27,7 @@ async function bootstrap() {
     saveUninitialized: true
   }))
   app.use(bodyParser.json({ limit: '2100000kb' }));
-  app.enableCors({ origin: 'https://iceymoon07.github.io/h5editor/' });
+  app.enableCors({ origin: 'http://47.105.223.91:90' });
   await app.listen(7000);
 }
 bootstrap();
