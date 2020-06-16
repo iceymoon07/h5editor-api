@@ -27,7 +27,10 @@ async function bootstrap() {
     saveUninitialized: true
   }))
   app.use(bodyParser.json({ limit: '2100000kb' }));
-  app.enableCors({ origin: 'http://47.105.223.91:90' });
+  app.enableCors({
+    origin: 'http://47.105.223.91:90',
+    credentials: true
+  });
   await app.listen(7000);
 }
 bootstrap();
